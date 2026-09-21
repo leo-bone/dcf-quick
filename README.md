@@ -1,12 +1,12 @@
 # dcf-quick
 
+> **English** · [简体中文](README_CN.md) · [Site](https://leo.uichain.org/)
+
 [![CI](https://github.com/leo-bone/dcf-quick/actions/workflows/test.yml/badge.svg)](https://github.com/leo-bone/dcf-quick/actions/workflows/test.yml)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Dependencies](https://img.shields.io/badge/dependencies-stdlib%20only-brightgreen.svg)](scripts/)
 [![Agent Skill](https://img.shields.io/badge/agent--skill-Claude%20%C2%B7%20Codex%20%C2%B7%20WorkBuddy-blueviolet.svg)](SKILL.md)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
-*中文文档：[README_CN.md](README_CN.md)*
 
 **A one-page DCF that tells you how much to buy — not just what it's worth.**
 

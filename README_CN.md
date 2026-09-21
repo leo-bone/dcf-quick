@@ -1,6 +1,6 @@
 # dcf-quick
 
-*[English](./README.md) | 中文*
+> [English](./README.md) · **简体中文** · [站点](https://leo.uichain.org/)
 
 > 给一个标的，单页产出**两阶段 DCF 估值区间 + 下行地板**，并把"最大仓位"由最坏情况倒推，而非由机会大小正推。
 > 投资纪律的量化外骨骼——绝对估值锚。
